@@ -1,33 +1,37 @@
-#CCNA - HANDS ON - LAB 1 | DHCP TYPES
+# CCNA - HANDS ON - LAB 1 | DHCPv4 TYPES
 
-<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
+![LAB DHCP TYES](https://user-images.githubusercontent.com/71329433/190261076-a2f9c560-144f-47e5-bc52-e9023dd543ae.png)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/oliveied/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/oliveied/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/oliveied/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/oliveied/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/oliveied/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+>Bem vindo novamente, fico feliz em tê-lo novamente nesse ambiente. Através desse Lab.DHCPv4.Types vou lhe mostrar exemplos de configurações, e documentações de endereços IPv4. Assim facilitando, a gerência, alocações dos endereços, com tudo  isso facilitando a sumarização de rotas e engenharia do tráfego de redes. 
 
-### Ajustes e melhorias
+### Ajustes e melhorias estão por vir 🚧 EM CONSTRUÇÃO 🚧
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
+# 💡 Projects
+- [ ] Tarefa 1 - Instalado o EVE-NG  e as imagens dos roteadores que serão utilizadas neste conteúdo.
+- Link Aqui >
+
+- [ ] Tarefa 2 - Planejamento dos endereços IPv4 e desenho da topologia.
+- Link Aqui >
+
+- [ ] Tarefa 3 - Configuração Básica dos Roteadores e SW's layer 3. 
+- Link Aqui >
+
+- [ ] Tarefa 4 - Estabelecendo conectividade para Internet, RTR-OPERADORA e RTR-MATRIZ.
+- Link Aqui >
+
+- [ ] Tarefa 5 - Configurando os diversos tipos de DHCPv4 em diferetes Unidades (SOHO)
+- Link Aqui >
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 <!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 * Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-* Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
+* Você tem uma máquina `<Windows >`. Indique qual sistema operacional é compatível / não compatível.
 * Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 
 ## 🚀 Instalando <nome_do_projeto>

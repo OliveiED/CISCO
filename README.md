@@ -34,9 +34,11 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente de `<Windows>`
 
 Requisitos recomendados de Hardware
-Processador: 4 ou mais núcleos lógicos - série AMD-V / RVI ou Intel VT-X / EPT
-Memória RAM: 8 Gb (mínimo 4Gb).
-DISCO: 50Gb
+
+	1.1. Processador: 4 ou mais núcleos lógicos - série AMD-V / RVI ou Intel VT-X / EPT
+	1.2. Memória RAM: 8 Gb (mínimo 4Gb).
+	1.3. DISCO: 50Gb
+	
 Referência: https://www.eve-ng.net/documentation/installation/system-requirement
 
 Dicas
@@ -44,8 +46,9 @@ Componentes da Instalação
 O EVE-NG é uma máquina virtual Linux.
 O acesso do usuário ao EVE-NG é via navegador Web (Chrome, Firefox., etc).
 É recomendado, no entanto, a instalação do EVE Client para integração de outros programas ao browser, como o Putty e Wireshark.
+
 Referência : https://www.eve-ng.net/index.php/download/
-Link : https://mega
+
 
 ## 🚀 Instalando <EVE - NG>
 
@@ -62,7 +65,8 @@ VMWare Workstation Player
 	2.3. Baixe a máquina virtual (VM) do EVE-NG OVA
   
   Referência: https://drive.google.com/drive/folders/1NlhBCZT75bycqZVa4XS6DwA4sc0FmnBp?usp=sharing
-  
+  Senha descompactação: githuboliveied
+	
 	2.4. Adicione a VM do EVE-NG ao VMWare Workstation
   
 Abra o VMWare Player

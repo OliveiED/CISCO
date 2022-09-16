@@ -96,13 +96,54 @@ Se tudo correr bem, aparecerá uma tela com as seguintes informações:
 
 Para usar <EVE-NG>, siga estas etapas:
 
+	Anote o endereço IP que aparece na tela (certamente vai ser diferente deste).
+		Instalação do Cliente Windows
+		Baixe e instale o EVE Client (Windows integration pack)
+	Primeiro acesso e teste!
+		Abra o navegador e acesse o endereço IP do EVE (Aquele que você anotou).
+		Efetue login usando as credenciais: admin/eve	
 ```
-<exemplo_de_uso>
+<exemplo da tela de acesso>
 ```
+![EVE-Login](https://user-images.githubusercontent.com/71329433/190747755-19842fc4-f442-4e7f-9b3f-9ff87ad29e4c.jpg)
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
-## 📫 Contribuindo para <nome_do_projeto>
+## Crie um Lab de teste
+	
+	Clique "Add New Lab" 
+![add new lab](https://user-images.githubusercontent.com/71329433/190750443-bd558ea4-5456-413f-b7ed-59836961aebd.png)
+	 
+
+	Preencha o campo "Name" e clique "Save"
+ 	Vai abrir o ambiente de trabalho.
+
+	Adicione dois VPCSs à topologia: 
+	Clique em "+" --> Add an Object --> Node
+	Clique na última opção "Virtual PC (VPCS)
+	Coloque "2" em "Number of Nodes to add e clique "Save"
+	
+![add a new node](https://user-images.githubusercontent.com/71329433/190755313-d05ec172-8369-4d6b-971f-02f0066c80f6.jpg)
+	
+	 Arraste o cabo de um PC para o outro e aceite a conexão default.
+	
+
+![EVE-PC-to-PC](https://user-images.githubusercontent.com/71329433/190756824-a242156a-5d2a-494b-96b8-2a1b72113ddd.jpg)
+	
+	 Use o menu "More Actions" --> Start all nodes
+	
+
+![start](https://user-images.githubusercontent.com/71329433/190757996-1a535682-3229-43da-b871-95e863fd9b10.jpg)
+	
+
+	Abra a console do PC-1. É só clicar uma vez em cima dele que vai aparecer uma mensagem do Browser
+	para abrir o cliente de telnet. Clique "Abrir".
+	Se isso não acontecer, reinstale o cliente EVE-NG
+	
+![abrir ssh](https://user-images.githubusercontent.com/71329433/190762622-6f283b0b-047c-4748-9de7-805d41db17d2.jpg)
+
+
+
+## 📫 Contribuindo para <EVE-NG COMMUNITY>
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 Para contribuir com <nome_do_projeto>, siga estas etapas:
 

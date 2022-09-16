@@ -135,9 +135,9 @@ Para usar <EVE-NG>, siga estas etapas:
 ![start](https://user-images.githubusercontent.com/71329433/190757996-1a535682-3229-43da-b871-95e863fd9b10.jpg)
 	
 
-	Abra a console do PC-1. É só clicar uma vez em cima dele que vai aparecer uma mensagem do Browser
-	para abrir o cliente de telnet. Clique "Abrir".
-	Se isso não acontecer, reinstale o cliente EVE-NG
+	Abra a console do PC-1. É só clicar uma vez em cima dele que vai aparecer uma mensagem do Browser.
+	Para abrir o cliente de telnet. Clique "Abrir".
+	Se isso não acontecer, reinstale o cliente EVE-NG.
 	
 ![abrir ssh](https://user-images.githubusercontent.com/71329433/190762622-6f283b0b-047c-4748-9de7-805d41db17d2.jpg)
 
@@ -145,12 +145,12 @@ Para usar <EVE-NG>, siga estas etapas:
 
 ## 📫 Contribuindo para <EVE-NG COMMUNITY>
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
-Para contribuir com <nome_do_projeto>, siga estas etapas:
+Para contribuir com <EVE-NG Community>, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+4. Envie para o branch original: `git push origin <EVE-NG-Community> / <local>`
 5. Crie a solicitação de pull.
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
@@ -197,4 +197,4 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo]<br>
+[⬆ Voltar ao topo](README.md)

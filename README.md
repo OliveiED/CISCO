@@ -65,7 +65,8 @@ VMWare Workstation Player
 	2.3. Baixe a máquina virtual (VM) do EVE-NG OVA
   
   Referência: https://drive.google.com/drive/folders/1NlhBCZT75bycqZVa4XS6DwA4sc0FmnBp?usp=sharing
-  Senha descompactação: githuboliveied
+  
+	2.3.1 Senha descompactação: githuboliveied
 	
 	2.4. Adicione a VM do EVE-NG ao VMWare Workstation
   
@@ -82,17 +83,18 @@ Se tudo correr bem, aparecerá uma tela com as seguintes informações:
 
 ![eve-ng tela login](https://user-images.githubusercontent.com/71329433/190728602-9aedc18b-ef40-45f5-ac90-e76b44e3470c.png)
 
-Acesso ao Eve-ng Community - CLI
-user: root
-Password: eve
+	Acesso ao Eve-ng Community - CLI
+	user: root
+	Password: eve
+	
+	Acesso ao Eve-ng Community - WEB
+	user: Admin
+	Password: eve
 
-Acesso ao Eve-ng Community - WEB
-user: Admin
-Password: eve
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando <EVE-NG Community>
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar <EVE-NG>, siga estas etapas:
 
 ```
 <exemplo_de_uso>
@@ -154,4 +156,4 @@ Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contr
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-[⬆ Voltar ao topo](#CCNA - HANDS ON - LAB 1 | DHCP TYPES)<br>
+[⬆ Voltar ao topo]<br>

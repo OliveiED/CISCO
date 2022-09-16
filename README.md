@@ -11,8 +11,7 @@
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 # 💡 Projects
-- [ ] Tarefa 1 - Instalado o EVE-NG  e as imagens dos roteadores que serão utilizadas neste conteúdo.
-- Link Aqui >
+- [X] Tarefa 1 - Instalado o EVE-NG  e as imagens dos roteadores que serão utilizadas neste conteúdo.
 
 - [ ] Tarefa 2 - Planejamento dos endereços IPv4 e desenho da topologia.
 - Link Aqui >

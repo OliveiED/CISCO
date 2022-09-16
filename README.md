@@ -4,7 +4,7 @@
 
 
 
->Bem vindo novamente, fico feliz em tê-lo novamente nesse ambiente. Através desse Lab.DHCPv4.Types vou lhe mostrar exemplos de configurações, e documentações de endereços IPv4. Assim facilitando, a gerência, alocações dos endereços, com tudo  isso facilitando a sumarização de rotas e engenharia do tráfego de redes. 
+>Bem vindo novamente, fico feliz em tê-lo nesse ambiente. Através do Lab.DHCPv4.Types vou lhe mostrar exemplos das configurações, e documentações para endereços IPv4. Assim facilitando, a gerência, alocações dos endereços, com tudo  isso facilitando a sumarização de rotas e engenharia do tráfego de redes. 
 
 ### Ajustes e melhorias estão por vir 🚧 EM CONSTRUÇÃO 🚧
 
@@ -29,24 +29,62 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
-<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
-* Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
+<!---Estes são apenas requisitos de exemplo.o--->
 * Você tem uma máquina `<Windows >`. Indique qual sistema operacional é compatível / não compatível.
-* Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+* Você instalou a versão mais recente de `<Windows>`
 
-## 🚀 Instalando <nome_do_projeto>
+Requisitos recomendados de Hardware
+Processador: 4 ou mais núcleos lógicos - série AMD-V / RVI ou Intel VT-X / EPT
+Memória RAM: 8 Gb (mínimo 4Gb).
+DISCO: 50Gb
+Referência: https://www.eve-ng.net/documentation/installation/system-requirement
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Dicas
+Componentes da Instalação
+O EVE-NG é uma máquina virtual Linux.
+O acesso do usuário ao EVE-NG é via navegador Web (Chrome, Firefox., etc).
+É recomendado, no entanto, a instalação do EVE Client para integração de outros programas ao browser, como o Putty e Wireshark.
+Referência : https://www.eve-ng.net/index.php/download/
+Link : https://mega
 
-Linux e macOS:
-```
-<comando_de_instalação>
-```
+## 🚀 Instalando <EVE - NG>
 
-Windows:
-```
-<comando_de_instalação>
-```
+Para instalar o <EVE-NG>, siga estas etapas:
+
+1 ) Instalação da Máquina Virtual
+
+	1.1. Crie um login em my.vmware.com
+  
+	1.2. Baixe e instale o seguinte programa:
+  
+VMWare Workstation Player
+
+	2.3. Baixe a máquina virtual (VM) do EVE-NG OVA
+  
+  Referência: https://drive.google.com/drive/folders/1NlhBCZT75bycqZVa4XS6DwA4sc0FmnBp?usp=sharing
+  
+	2.4. Adicione a VM do EVE-NG ao VMWare Workstation
+  
+Abra o VMWare Player
+- Clique "Open a Virtual Machine"
+- Localize e abra o arquivo EVE Community VM.ova e clique "Import"
+-Depois edite as configurações da máquina virtual '<eve-ng OVA>'.
+
+![eve-ng config](https://user-images.githubusercontent.com/71329433/190730117-ed81f67e-30c5-474c-b9a0-5bf3ca446c73.png)
+
+	2.5. Pode iniciar agora a Máquina Virtual
+
+Se tudo correr bem, aparecerá uma tela com as seguintes informações:
+
+![eve-ng tela login](https://user-images.githubusercontent.com/71329433/190728602-9aedc18b-ef40-45f5-ac90-e76b44e3470c.png)
+
+Acesso ao Eve-ng Community - CLI
+user: root
+Password: eve
+
+Acesso ao Eve-ng Community - WEB
+user: Admin
+Password: eve
 
 ## ☕ Usando <nome_do_projeto>
 

@@ -63,7 +63,7 @@ VMWare Workstation Player
 
 	2.3. Baixe a máquina virtual (VM) do EVE-NG OVA
   
-  Referência: https://drive.google.com/drive/folders/1NlhBCZT75bycqZVa4XS6DwA4sc0FmnBp?usp=sharing
+  Referência: https://drive.google.com/drive/folders/1GryqhOCLZFFgt04AYQcZ_fd1DEjP1OOL?usp=sharing
   
 	2.3.1 Senha descompactação: githuboliveied
 	

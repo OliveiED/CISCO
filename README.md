@@ -95,12 +95,12 @@ Se tudo correr bem, aparecerá uma tela com as seguintes informações:
 
 Para usar <EVE-NG>, siga estas etapas:
 
-	Anote o endereço IP que aparece na tela (certamente vai ser diferente deste).
-		Instalação do Cliente Windows
-		Baixe e instale o EVE Client (Windows integration pack)
-	Primeiro acesso e teste!
-		Abra o navegador e acesse o endereço IP do EVE (Aquele que você anotou).
-		Efetue login usando as credenciais: admin/eve	
+Anote o endereço IP que aparece na tela (certamente vai ser diferente deste citado anteriormente).
+Instalação do Cliente Windows
+Baixe e instale o EVE Client (Windows integration pack)
+Primeiro acesso e teste!
+Abra o navegador e acesse o endereço IP do EVE (Aquele que você anotou).
+Efetue login usando as credenciais: admin/eve	
 ```
 <exemplo da tela de acesso>
 ```
